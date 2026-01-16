@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Shanu Sahu 👋
 
-<!--
-**shanusahu-dev/shanusahu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Python & SQL Developer | Fresher | Open to Opportunities
 
-Here are some ideas to get you started:
+I am a passionate Python developer with strong knowledge of:
+- Core Python
+- Object-Oriented Programming (OOP)
+- SQL & MySQL
+- Python + Database Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building real-world console-based applications and continuously improving my problem-solving skills.
+
+---
+
+## 🛠️ Skills
+- Python (Core, OOP, File Handling)
+- SQL (MySQL, Joins, Functions, Subqueries)
+- Git & GitHub
+- Basic Data Structures
+
+---
+
+## 📌 Projects
+- Student Result Management System (Python)
+- Employee Payroll System (Python + SQL)
+- Bank Account Management System
+- Data Handling using CSV & Dictionaries
+
+---
+
+## 🌱 Currently Learning
+- Advanced SQL
+- Python Project Optimization
+- GitHub Best Practices
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/shanusahu-dev
+- Email: shanu.sahu.work@gmail.com
+
+---
+
+⭐ I am actively looking for entry-level Python Developer opportunities.
