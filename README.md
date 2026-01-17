@@ -22,7 +22,7 @@ I enjoy building real-world console-based applications and continuously improvin
 
 ## 📌 Projects
 - Student Result Management System (Python)
-- Employee Payroll System (Python + SQL)
+- Employee Management System (Python)
 - Bank Account Management System
 - Data Handling using CSV & Dictionaries
 
